@@ -102,4 +102,9 @@ font-size: 25px;
   bottom: 0;
   left: 0;
   width: 100%;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 25px;
 }
