@@ -2,6 +2,7 @@ import './App.css';
 import { Layout, Header, Drawer, Navigation, Content } from "react-mdl";
 import Main from './components/main';
 import { Link } from 'react-router-dom';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -30,7 +31,13 @@ function App() {
             <Main></Main>
         </Content>
     </Layout>
+
+    <Footer />
+
+   
+
 </div>  
+
 
 );
 }
