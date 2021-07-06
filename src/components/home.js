@@ -8,9 +8,9 @@ class Home extends Component {
                 <Grid className="home-grid">
                     <Cell col={12}>
                         <img
-                        src="https://atn362.github.io/updated-portfolio/images/IMG_5433.jpeg"
-                        alt="profile-pic"
-                        className="profile-pic" />
+                        src="https://atn362.github.io/updated-portfolio/images/logo.png.jpg"
+                        alt="logo-pic"
+                        className="logo-pic" />
 
                         <div className="banner-text">
                             <h1>Junior Full Stack Developer</h1>
