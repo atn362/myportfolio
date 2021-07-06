@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
 import { BrowserRouter } from 'react-router-dom';
+import 'font-awesome/css/font-awesome.min.css';
 
 
 ReactDOM.render(

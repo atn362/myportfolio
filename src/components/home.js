@@ -13,7 +13,7 @@ class Home extends Component {
                         className="profile-pic" />
 
                         <div className="banner-text">
-                            <h1>Full Stack Junior Developer</h1>
+                            <h1>Junior Full Stack Developer</h1>
 
                         <hr/>
                         <p>HTML/CSS | JavaScript | React | NodeJS | Express | MongoDB</p>
