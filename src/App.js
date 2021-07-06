@@ -7,16 +7,18 @@ function App() {
   return (
     <div className="demo-big-content">
     <Layout>
-        <Header title="Portfolio" scroll>
+        <Header className="header-color" title=" Alex Norton's Portfolio" scroll>
             <Navigation>
+                <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/resume">Resume</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
-        <Drawer title="Portfolio">
+        <Drawer title="Alex Norton's Portfolio">
             <Navigation>
+                <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/resume">Resume</Link>
