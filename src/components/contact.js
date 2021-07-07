@@ -21,13 +21,13 @@ class Contact extends Component {
             <hr />
             <List>
               <ListItem>
-                <ListItemContent icon="person">Bryan Cranston</ListItemContent>
+                <ListItemContent icon="person"></ListItemContent>
               </ListItem>
               <ListItem>
-                <ListItemContent icon="person">Aaron Paul</ListItemContent>
+                <ListItemContent icon="person"></ListItemContent>
               </ListItem>
               <ListItem>
-                <ListItemContent icon="person">Bob Odenkirk</ListItemContent>
+                <ListItemContent icon="person"></ListItemContent>
               </ListItem>
             </List>
           </Cell>
