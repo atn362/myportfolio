@@ -21,7 +21,10 @@ class Contact extends Component {
             <hr />
             <List>
               <ListItem>
-                <ListItemContent icon="person"></ListItemContent>
+                <ListItemContent icon="person"><a href="mailto:atn362@gmail.com">Contact Through Email</a></ListItemContent>
+              </ListItem>
+              <ListItem>
+                <ListItemContent icon="person"><a href="tel:952-270-8875">Contact Through Telephone</a></ListItemContent>
               </ListItem>
               <ListItem>
                 <ListItemContent icon="person"></ListItemContent>
