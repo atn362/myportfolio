@@ -25,7 +25,7 @@ class Projects extends Component {
         <div className="projects-grid">
           <Card
             shadow={5}
-            style={{ width: "250px", height: "250px", margin: "auto" }}
+            style={{ width: "300px", height: "350px", margin: "auto" }}
           >
             <CardTitle
               style={{
@@ -61,7 +61,7 @@ class Projects extends Component {
           </Card>
           <Card
             shadow={5}
-            style={{ width: "250px", height: "250px", margin: "auto" }}
+            style={{ width: "300px", height: "350px", margin: "auto" }}
           >
             <CardTitle
               style={{
@@ -102,7 +102,7 @@ class Projects extends Component {
         <div className="projects-grid">
           <Card
             shadow={5}
-            style={{ width: "250px", height: "250px", margin: "auto" }}
+            style={{ width: "300px", height: "350px", margin: "auto" }}
           >
             <CardTitle
               style={{
@@ -138,7 +138,7 @@ class Projects extends Component {
           </Card>
           <Card
             shadow={5}
-            style={{ width: "250px", height: "250px", margin: "auto" }}
+            style={{ width: "300px", height: "350px", margin: "auto" }}
           >
             <CardTitle
               style={{
@@ -179,7 +179,7 @@ class Projects extends Component {
         <div className="projects-grid">
           <Card
             shadow={5}
-            style={{ width: "250px", height: "250px", margin: "auto" }}
+            style={{ width: "300px", height: "350px", margin: "auto" }}
           >
             <CardTitle
               style={{
@@ -215,7 +215,7 @@ class Projects extends Component {
           </Card>
           <Card
             shadow={5}
-            style={{ width: "250px", height: "250px", margin: "auto" }}
+            style={{ width: "300px", height: "350px", margin: "auto" }}
           >
             <CardTitle
               style={{
