@@ -169,3 +169,8 @@ p {
   width: 50%;
   margin: auto;
 }
+
+.contact-list a i{
+  font-size: 35px;
+  color: white;
+}
