@@ -127,6 +127,23 @@ p {
   color: white;
 }
 
-img{
-  height: 25px;
+.footer img{
+  height: 30px;
+}
+
+.contact-body{
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-grid{
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  margin-bottom: 20px;
 }
