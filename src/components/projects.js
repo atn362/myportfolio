@@ -12,7 +12,7 @@ class Projects extends Component {
         if(this.state.activeTab === 0){
             return(
                 <div className="projects-grid">
-                <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
+                <Card shadow={5} style={{width: '250px', height: '250px' ,  margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/124655665-c601c500-de65-11eb-9ec1-613db3e1f3d9.png) center/ cover'}}></CardTitle>
                 <CardText>
                    Quiz Project: One of my first projects where I was becoming comfortable with both HTML syntax and styling with CSS.
@@ -25,7 +25,7 @@ class Projects extends Component {
                     <IconButton name="share" />
                 </CardMenu>
             </Card>
-            <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
+            <Card shadow={5} style={{width: '250px', height: '250px',  margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/120897772-73768400-c5ed-11eb-8154-663456b1f456.png) center/ cover'}}></CardTitle>
                 <CardText>
                 Updated Portfolio: This was my original updated Portfolio, using solely HTML and CSS.
@@ -47,7 +47,7 @@ class Projects extends Component {
             return (
 
                 <div className="projects-grid">
-                <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
+                <Card shadow={5} style={{width: '250px', height: '250px',  margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/124654103-be412100-de63-11eb-86f6-32457800397b.png) center/ cover'}}></CardTitle>
                 <CardText>
                 Weather App: This is a Weather I created using primarily JavaScript, while linking it to free weather API.
@@ -60,7 +60,7 @@ class Projects extends Component {
                     <IconButton name="share" />
                 </CardMenu>
             </Card>
-             <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
+             <Card shadow={5} style={{width: '250px', height: '250px',  margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/124655238-35c38000-de65-11eb-8264-574a3004fcc4.png) center/ cover'}}></CardTitle>
                 <CardText>
                     Password Generator: This was the first project where the primary language was JavaScript.
@@ -79,7 +79,7 @@ class Projects extends Component {
         } else if (this.state.activeTab === 2 ) {
             return(
                 <div className="projects-grid">
-                <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
+                <Card shadow={5} style={{width: '250px', height: '250px',  margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/116157798-32688700-a6b3-11eb-912e-18700d09b36f.png) center/ cover'}}></CardTitle>
                 <CardText>
                 Express Note Taker: This Project uses the NodeJs and Express packages to create, edit and delete notes.
@@ -92,7 +92,7 @@ class Projects extends Component {
                     <IconButton name="share" />
                 </CardMenu>
             </Card>
-            <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
+            <Card shadow={5} style={{width: '250px', height: '250px',  margin: 'auto'}}>
         <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/124652158-630e2f00-de61-11eb-9b35-602f496ab5cb.png) center/ cover'}}></CardTitle>
         <CardText>
         Musical Musings: Group Project #2, using node and express to upload and comment on user's musical opinions.
