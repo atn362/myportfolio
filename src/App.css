@@ -66,8 +66,9 @@ text-align: center;
 }
 
 .projects-grid{
-  display: flex;
-
+  display: flex; 
+  align-items: center;
+  
 }
 
 .about-grid {
@@ -79,8 +80,11 @@ height: 50%;
 text-align: center;
 }
 
+
+
 .about-grid h1{
   color: white;
+  padding-top: 10px;
 }
 
 .about-grid p{
