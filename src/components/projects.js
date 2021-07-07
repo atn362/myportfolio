@@ -41,9 +41,11 @@ class Projects extends Component {
            
           
                 </div>
+            
             )
         } else if (this.state.activeTab === 1) {
             return (
+
                 <div className="projects-grid">
                 <Card shadow={5} style={{minWidth: '450',  margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://user-images.githubusercontent.com/77468756/124654103-be412100-de63-11eb-86f6-32457800397b.png) center/ cover'}}></CardTitle>
