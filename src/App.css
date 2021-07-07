@@ -110,13 +110,13 @@ font-size: 20px;
   bottom: 0;
   left: 0;
   right: 0;
-  height: 50px;
+  height: 75px;
   width: 100%;
   text-align: center;
 }
 
 .footer p {
-  font-size: 25px;
+  font-size: 15px;
 }
 
 .resume-card a{
@@ -125,4 +125,8 @@ font-size: 20px;
 
 p {
   color: white;
+}
+
+img{
+  height: 40px;
 }
