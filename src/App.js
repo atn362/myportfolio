@@ -7,6 +7,8 @@ import Footer from './components/footer';
 function App() {
   return (
     <div className="demo-big-content">
+        <h1>Welcome To my Portfolio</h1>
+        <h2>Click the home button to get started:)</h2>
     <Layout>
         <Header className="header-color" title=" Alex Norton's Portfolio" scroll>
             <Navigation>
